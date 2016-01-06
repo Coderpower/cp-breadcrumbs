@@ -1,5 +1,5 @@
 {
-  "name": "ng-breadcrumbs",
+  "name": "cp-breadcrumbs",
   "version": "0.4.1",
   "description": "A better AngularJS service to help with breadcrumb-style navigation between views",
   "keywords": [
@@ -14,7 +14,7 @@
     "Ian Kennington Walter (http://ianvonwalter.com)"
   ],
   "license": "MIT",
-  "homepage": "http://ianwalter.github.io/ng-breadcrumbs/",
+  "homepage": "https://github.com/Coderpower/cp-breadcrumbs",
   "main": [
     "dist/ng-breadcrumbs.min.js",
     "README.md"
@@ -31,7 +31,8 @@
   ],
   "dependencies": {
     "angular": ">= 1.2.5",
-    "angular-route": ">= 1.2.5"
+    "angular-route": ">= 1.2.5",
+    "cp-breadcrumbs": "*"
   },
   "resolutions": {
     "angular": "1.2.11"
